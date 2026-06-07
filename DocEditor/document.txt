@@ -1,3 +1,0 @@
-Hello world!!
-[Image: picture.png]
-This is a test document editor
