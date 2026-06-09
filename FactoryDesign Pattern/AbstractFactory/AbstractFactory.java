@@ -7,7 +7,6 @@ class BasicBurger implements Burger {
         System.out.println("Preparing Basic Burger with bun, patty, and ketchup!");
     }
 }
-
 class StandardBurger implements Burger {
     public void prepare() {
         System.out.println("Preparing Standard Burger with bun, patty, cheese, and lettuce!");
