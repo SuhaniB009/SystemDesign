@@ -10,7 +10,6 @@ class NPC{
         this.attack=a;
         this.defense=d;
         System.out.println("Creatig NPC "+name+"[HP: "+health+", ATK: "+attack+", DEF: "+defense);
-
     }
     public void describe(){
         System.out.println("NPC: "+name+" name"+" | HP= "+health+" | ATK= "+attack+" | DEF= "+defense);
