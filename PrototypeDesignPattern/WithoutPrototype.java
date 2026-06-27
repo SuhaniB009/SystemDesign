@@ -22,6 +22,5 @@ public class WithoutPrototype {
         alien.describe();
         NPC Alien2=new NPC("Powerful Alien",30,5,5);
         Alien2.describe();
-        
     }
 }
